@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764700882007",
+    "project_id": "langman-de39d",
+    "storage_bucket": "langman-de39d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764700882007:android:dc4305643873d67edb5f12",
+        "android_client_info": {
+          "package_name": "com.example.langman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxT34XWrxwdBOJ2NJw0ogSTzwEG-CFda4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
